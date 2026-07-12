@@ -85,15 +85,7 @@
 
 <br>
 
-## GitHub Stats
 
-## GitHub Stats
-
-<div align="center">
-
-![Sourav's GitHub contribution graph](https://ghchart.rshah.org/souravarya)
-
-</div>
 
 <br>
 
