@@ -87,10 +87,11 @@
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=souravarya&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=souravarya&theme=tokyonight&hide_border=true"/>
+![Sourav's GitHub contribution graph](https://ghchart.rshah.org/souravarya)
 
 </div>
 
